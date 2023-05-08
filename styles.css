@@ -200,8 +200,8 @@
 
   .project-link{
     font-size:3rem;
-    font-weight:200;
-    color:white;
+    font-weight:300;
+    color:rgb(209, 201, 201);
   }
   
   .portfolio .box-container .box:hover .image .content {
