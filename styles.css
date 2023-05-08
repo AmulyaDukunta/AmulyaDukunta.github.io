@@ -197,6 +197,12 @@
     letter-spacing: 0.1rem;
     text-transform: uppercase;
   }
+
+  .project-link{
+    font-size:3rem;
+    font-weight:200;
+    color:white;
+  }
   
   .portfolio .box-container .box:hover .image .content {
     transform: translateY(0);
